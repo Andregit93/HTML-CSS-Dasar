@@ -1,0 +1,21 @@
+.container {
+    width: 600px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 5px
+}
+
+img {
+    width: 200px;
+    background-size: cover;
+    float: left;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.clear {
+    clear: left;
+}

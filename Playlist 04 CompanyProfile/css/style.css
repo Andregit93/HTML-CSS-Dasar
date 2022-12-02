@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.client h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax-container .client-img img {
+    padding: 15px 0;
+}
+
+.parallax img {
+    padding-top: 100px;
+    filter: grayscale(1);
+    opacity: 0.6 !important;
+}
+
+.client img {
+    max-width: 80px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+}
+
+.portfolio img {
+    padding-top: 3px;
+}
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 10px 0;
+}

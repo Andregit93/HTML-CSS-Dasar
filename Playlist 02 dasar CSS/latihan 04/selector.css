@@ -1,0 +1,29 @@
+h1, h2 {
+    color: greenyellow;
+}
+
+ul li a {
+    color: brown;
+}
+
+ol li a {
+    color:gold;
+}
+
+.tebal {
+    color: blueviolet;
+}
+
+p.tebal {
+    font-weight: bold; 
+}
+
+.italic {
+    color: royalblue;
+    font-family: Arial;
+    font-style: italic;
+}
+
+body {
+    background-color: black;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>z index</title>
+    <style>
+        div {
+            width: 200px;
+            height: 200px;
+            position: absolute;
+        }
+        .satu {
+            background-color: salmon;
+            z-index: 1;
+        }
+        .dua {
+            background-color: greenyellow;
+            top: 100px;
+            left: 100px;
+            z-index: 9999;
+        }
+        .tiga {
+            background-color: skyblue;
+            top: 200px;
+            left: 200px;
+            z-index: -9999;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="satu"></div>
+    <div class="dua"></div>
+    <div class="tiga"></div>
+    
+</body>
+</html>

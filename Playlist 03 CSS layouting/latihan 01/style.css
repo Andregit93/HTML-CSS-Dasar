@@ -1,0 +1,35 @@
+.header span {
+    color: rgb(65, 65, 170);
+}
+
+.header {
+    background-color: grey;
+    width: 189px;
+    height: 38px;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    background-color: grey;
+    display: inline-block;
+    width: 37px;
+    height: 30px;
+}
+
+.konten {
+    background-color: grey;
+    width: 300px;
+
+}
+
+.konten h2 {
+    color:  rgb(65, 65, 170);
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.konten img {
+    width: 300px;
+}

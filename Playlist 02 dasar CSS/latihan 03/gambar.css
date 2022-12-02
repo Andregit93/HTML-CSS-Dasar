@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+    background-image: url(gambar/bg5.jpg);
+    background-repeat: repeat-x;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    text-align: center;
+}

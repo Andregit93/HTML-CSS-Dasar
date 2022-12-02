@@ -1,0 +1,26 @@
+body {
+    background-color: goldenrod;
+}
+
+h1 {
+    background: rgb(100, 203, 207);
+    color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size: 100px;
+
+}
+
+p {
+    color: goldenrod;
+    background: rgb(100, 203, 207);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+a {
+    color: goldenrod;
+    background: rgb(100, 203, 207);
+    text-decoration: none;
+}

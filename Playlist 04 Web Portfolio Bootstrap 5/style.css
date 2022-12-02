@@ -1,0 +1,30 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+.project {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.gallery-img {
+    width: 100%;
+    border: 5px solid #fff;
+    border-radius: 1rem;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
+
+.contact {
+    background-color: #e2edff;
+}
+
+footer p a {
+    text-decoration: none;
+}

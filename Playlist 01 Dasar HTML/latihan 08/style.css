@@ -1,0 +1,15 @@
+body {
+    background-image: url(leaves.webp);
+}
+
+#sevtian {
+    color: skyblue;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+label {
+    color: blueviolet;
+}

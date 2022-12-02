@@ -1,0 +1,39 @@
+.hello:link {
+    color: yellow;
+}
+
+.hello:hover {
+    color: brown;
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+.hello:visited {
+    color: purple;
+}
+
+
+li:first-child a {
+    color: red;
+}
+
+li:nth-child(even) a{
+    color: red;
+}
+
+li:nth-child(even) a:hover{
+    color: green;
+}
+
+p:first-of-type {
+    color: blue;
+}
+
+p:last-of-type {
+    color: aqua;
+}

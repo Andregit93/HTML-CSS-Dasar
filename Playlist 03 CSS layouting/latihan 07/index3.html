@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>position fixed</title>
+    <style>
+        body {
+            height: 2000px;
+        }
+        div {
+            width: 200px;
+            height: 200px;
+            margin: auto;
+        }
+        .satu {
+            background-color: salmon;
+        }
+
+        .dua {
+            background-color: green;
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 40px;
+        }
+
+        .tiga {
+            background-color: skyblue;
+        }
+        .border {
+            width: 600px;
+            height: 650px;
+            border: 5px solid yellow;
+            position: relative;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="border">
+        <div class="satu"></div>
+        <div class="dua"></div>
+        <div class="tiga"></div>
+    </div>
+</body>
+</html>

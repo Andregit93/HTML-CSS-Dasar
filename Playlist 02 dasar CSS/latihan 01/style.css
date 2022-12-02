@@ -1,0 +1,17 @@
+h1 {
+    color:yellowgreen;
+    font-family: Arial;
+    font-size: 100px;
+    font-variant:small-caps;
+    font-style: italic;
+}
+
+p {
+    color: rgb(14, 180, 236);;
+    font-family:Georgia;
+    line-height: 30px;
+}
+
+body {
+    background:pink;
+}
